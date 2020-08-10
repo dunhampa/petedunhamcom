@@ -6,7 +6,7 @@ type: "project"
 hideLastModified: false
 summary: "I was inspired to create a website by an excellent talk, a thought provoking book, and other personal websites sharing their projects and journeys."
 summaryImage: "circle.png"
-tags: ["inspiration"]
+tags: ["Inspiration"]
 ---
 	
 I was contemplating (procrastinating) this website for sometime but I was finally pushed over the edge by:
