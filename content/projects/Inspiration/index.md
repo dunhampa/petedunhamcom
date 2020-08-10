@@ -2,11 +2,11 @@
 title: "Inspiration For Creating a Personal Website"
 date: 2019-11-18T23:53:00+01:00
 draft: false
+type: "project"
 hideLastModified: false
 summary: "I was inspired to create a website by an excellent talk, a thought provoking book, and other personal websites sharing their projects and journeys."
 summaryImage: "circle.png"
 tags: ["inspiration"]
-weight: 4
 ---
 	
 I was contemplating (procrastinating) this website for sometime but I was finally pushed over the edge by:

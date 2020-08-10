@@ -1,18 +1,14 @@
 ---
 title: "Full Stack Canon (Reading)"
 date: 2020-01-07T23:53:00+01:00
-draft: true
+draft: false
 hideLastModified: false
+type: "project"
 summaryImage: "fullstack.png"
 summary: "From time to time I get asked about what resources I can recommend to someone looking to begin their fullstack journey. Here is my on-going attempt to assemble a full stack canon."
 tags: ["Full Stack"]
 weight: 4
 ---
-
-{{< rawhtml >}}
-<script type="text/javascript" src="https://rbtlabs.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/ghusgb/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=af32d163"></script>
-{{< /rawhtml >}}
-
 
 From time to time I get asked about what resources I can recommend to someone looking to begin their fullstack journey. Here is my on-going attempt to assemble a full stack canon:
  
