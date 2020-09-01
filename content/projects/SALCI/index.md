@@ -35,6 +35,8 @@ Since 2013, I've worked to maintain the open source code, parts list, and build 
 
 # Demos 
 
+[See here for more videos of SALCI performances]({{< ref "/projects/SALCI_Demos" >}} "SALCI performance videos")
+
 Here are some quick demos of me synthesizing some music on SALCI by using shadows. 
 
 <div class="columns">

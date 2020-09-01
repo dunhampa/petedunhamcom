@@ -10,8 +10,6 @@ tags: ["Arduino","SALCI"]
 weight: 6
 ---
 
-
-
  I decided to rewire the original SALCI arduino hardware. Containing  SALCI wakes up...kind of like Frankenstein...
 
 <center><img src="it_alive.gif" alt="Frankenstein Awakes Animation" style="width:600px"></a><p>
