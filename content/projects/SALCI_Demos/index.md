@@ -10,9 +10,7 @@ tags: ["Arduino","SALCI"]
 weight: 6
 ---
 
-Here are some videos of me playing SALCI. 
-
-**S**ensor **A**rray **L**ight **C**ontrolled **I**nstrument is an open source  instrument I envisioned and built using Arduino hardware and software.
+Here are some videos of me playing SALCI(**S**ensor **A**rray **L**ight **C**ontrolled **I**nstrument) which is an open source  instrument I envisioned and built using Arduino hardware and software.
 
 Light sensors capture changes in light that the Arduino hardware and software render to standard MIDI (music protocol) that can be synthesized by industry synthesizer software.
 
