@@ -20,10 +20,11 @@ I had previously built similar mapping type dashboard in Tableau and I wanted to
 The shinydashboard is best viewed and used in a full tab:
 <left>
 <div class="action">
-        <a href="https://apps.petedunham.com/shiny/Interactive_Ohio_BirthData/" target="_blank" class="button is-primary">
+        <a href="https://apps.petedunham.com/shiny/Interactive_Ohio_BirthData/" target="_blank" class="button is-link">
                 Click Here to Go to App
             </a>
       </div></left>
+
 
 # Source Code:
 
