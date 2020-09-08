@@ -1,16 +1,44 @@
 ---
-title: "Rasphberry Pi Base Setup"
+title: "Raspberry Pi Base Setup For Interactive Art"
 date: 2019-10-27T23:53:00+01:00
 draft: true
 type: "project"
 hideLastModified: false
 summary: "Some base setup for Rasphberry PI"
-summaryImage: "Etcher.png"
+summaryImage: "PiLogo.png"
 tags: ["Interactive Art"]
 weight: 6
 ---
 
+# Background
+
+[Raspberry Pis](https://en.wikipedia.org/wiki/Raspberry_Pi) (aka "Pis") are small and inexpensive computers that have a variety uses including teaching computing, IoT, and art. Because of there small size and low cost they Pis are perfect for creating and curating interative art. 
+
+I had several older model flat screen 32 inch TVs that were no longer in use around the house as well as inheriting another older model from a family memember.  
+
+
+### Raspberry Pi Overview
+* The computers are approximately the size of two decks of cards. 
+* The 4th generation Raspberry Pis (aka Pis) are readily available and include wireless ethernet and dual monitor (1080) capabilities.  
+* You can buy a 4th generation Pi for $30 with RAM 2GB of memory or $50 with 4GB of RAM memory
+
+https://www.rcmtiteurope.com/index.php/2019/06/04/developing-an-app-with-raspberry-pi-behind-the-scenes-of-horreum-weather/
+
+
 ## Step 1: Get the equipment
+
+
+* Get or have a Raspberry PI: https://www.raspberrypi.org/products/raspberry-pi-4-model-b/?variant=raspberry-pi-4-model-b-4gb
+* MicoSD card:
+
+<img src="MicroSdCard.png" alt="MicroSD Card" style="width:600px"></a><p>
+
+*Raspberry Pi:
+
+<img src="RaspberryPIPluggedIn.png" alt="MicroSD Card" style="width:600px"></a>
+
+
+
 
 ## Step 2: Get Etcher
 
@@ -50,6 +78,18 @@ weight: 6
 
 ## Step 6: Walk through One Time Prompts
 
+After the first boot there are some one-time prompt that guides some one time setups:
+* Set Country
+* Change password
+* Setup Screen
+* Select Wireless Network
+* Update Software
+* Restart once "Setup Complete"
+
+
 ## Step 7: Enable VNC Server
 
 Make sure to set a password for MAC "Go To Server"
+
+Need to build out these steps:
+https://fullstackproblemsolver.atlassian.net/wiki/spaces/FSPS/pages/279478273/Raspberry+PI+setup
