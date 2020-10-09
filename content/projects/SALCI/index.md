@@ -12,14 +12,33 @@ weight: 3
 
 # Background
 
-**S**ensor **A**rray **L**ight **C**ontrolled **I**nstrument:
-A networked music instrument I envisioned and built as part of a team using open source Arduino hardware/software. This instrument uses sensors to measure changes in light conditions and generates MIDI data that can be synthesized in various forms.
+SALCI, “Sensor Array Light Controlled Instrument”, is an instrument that uses shadows and lights to create musical output.  By simply approaching SALCI, players make music before they can consider playing technique or required proficiency. Players can make music by simply adjusting their body position, waving hands, or using everyday objects. Since playing positions can generate repeatable performances, musicians can use SALCI alongside traditional instruments.
 
-Since 2013, I've worked to maintain the open source code, parts list, and build instructions to allow anyone to create there own music instrument and music instrument network. 
+Each SALCI panel is a standalone instrument. Multiple panels can connect together to create a larger, seamless instrument.  This scalability allows for SALCI to grow to meet the requirements of grand, many player performances.
+
+The video shares the inspiration and song behind SALCI:
+
+<div class="columns">
+<div class="column is-3"></div>
+<div class="column is-6">
+<div style="position:relative;padding-top:75%;">
+  <iframe src="https://www.youtube.com/embed/Gn-lmbWQ67U" frameborder="0" allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+</div>
+
+<div>&nbsp</div>
+
+</div>
+
+<div class="column is-3"></div>
+</div>
 
 
 # Source Code
 
+SALCI runs on code that is open source and utilizes leverages [Arduino](http://arduino.cc) hardware.
+
+In the spirt of open source I've am working on detailed build instructions, parts list, and source code on Github:
 
 {{< rawhtml >}}
             
