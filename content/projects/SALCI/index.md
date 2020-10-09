@@ -10,6 +10,8 @@ tags: ["Arduino","SALCI"]
 weight: 1
 ---
 
+SALCI is a novel musical instrument I created using open source technology
+
 # Background
 
 SALCI, “Sensor Array Light Controlled Instrument”, is an instrument that uses shadows and lights to create musical output.  By simply approaching SALCI, players make music before they can consider playing technique or required proficiency. Players can make music by simply adjusting their body position, waving hands, or using everyday objects. Since playing positions can generate repeatable performances, musicians can use SALCI alongside traditional instruments.
