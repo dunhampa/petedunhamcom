@@ -7,7 +7,7 @@ hideLastModified: false
 summary: "Some videos of me playing SALCI - a musical instrument I built using open source hardware and sorftware"
 summaryImage: "SALCI_Demo.png"
 tags: ["Arduino","SALCI"]
-weight: 6
+weight: 60
 ---
 
 Here are some videos of me playing SALCI(**S**ensor **A**rray **L**ight **C**ontrolled **I**nstrument) which is an open source  instrument I envisioned and built using Arduino hardware and software.

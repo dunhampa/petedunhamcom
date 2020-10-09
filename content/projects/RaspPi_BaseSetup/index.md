@@ -7,7 +7,7 @@ hideLastModified: false
 summary: "Some base setup for Rasphberry PI"
 summaryImage: "PiLogo.png"
 tags: ["Interactive Art"]
-weight: 6
+weight: 65
 ---
 
 # Background

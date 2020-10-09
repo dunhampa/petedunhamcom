@@ -7,7 +7,7 @@ hideLastModified: false
 summary: "After 2 years, suriving 2 moves -- original SALCI gets rewired with some Arduino protoyshield boards. SALCI wakes up...kind of like Frankenstein...some kinks to work out"
 summaryImage: "waking_up.png"
 tags: ["Arduino","SALCI"]
-weight: 6
+weight: 65
 ---
 
  I decided to rewire the original SALCI arduino hardware. Containing  SALCI wakes up...kind of like Frankenstein...

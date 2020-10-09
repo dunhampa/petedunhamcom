@@ -7,7 +7,7 @@ hideLastModified: false
 summary: "A Shiny app using shinydashboard and Leaflet to allow for analysis of county data by clicking on Ohio country map"
 summaryImage: "OhioBirthData.png"
 tags: ["R","Shiny"]
-weight: 2
+weight: 10
 ---
 
 
