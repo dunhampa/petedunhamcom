@@ -10,7 +10,7 @@ tags: ["Arduino","SALCI"]
 weight: 1
 ---
 
-SALCI is a novel musical instrument I created using open source technology
+SALCI is a novel musical instrument I created using open source technology.
 
 # Background
 
